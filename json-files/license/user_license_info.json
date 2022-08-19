@@ -1,0 +1,39 @@
+{
+    "XXXX-MC01-CX90":
+    {
+        "user_name":"none",
+        "user_starting_date":"00/00/0000",
+        "user_end_date":"00/00/0000",
+        "user_fb_uid":"000000000000000",
+        "user_email":"example@mail.com",
+        "note_for_user":"none"
+    },
+    "XXXX-MC02-CX90":
+    {
+        "user_name": "none",
+        "user_starting_date": "00/00/0000",
+        "user_end_date":"00/00/0000",
+        "user_fb_uid":"000000000000000",
+        "user_email":"example@mail.com",
+        "note_for_user": "none"
+    },
+    "XXXX-MC03-CX90":
+    {
+        "user_name":"none",
+        "user_starting_date":"00/00/0000",
+        "user_end_date":"00/00/0000",
+        "user_fb_uid":"000000000000000",
+        "user_email":"example@mail.com",
+        "note_for_user":"none"
+    },
+    "XXXX-MC04-CX90":
+    {
+        "user_name": "none",
+        "user_starting_date": "00/00/0000",
+        "user_end_date":"00/00/0000",
+        "user_fb_uid":"000000000000000",
+        "user_email":"example@mail.com",
+        "note_for_user": "none"
+    }
+
+}
