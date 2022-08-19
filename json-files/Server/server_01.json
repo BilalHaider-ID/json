@@ -1,0 +1,16 @@
+{
+    "tool_status":"success",
+    "tool_username":["admin"],
+    "tool_password":["admin"],
+    "unlock_key":["XXXXX-XXXXX-XXXXX"],
+    "update":
+    {
+       "update_date":"00/00/0000",
+       "update_message":"_ _ _ _ _ _ _"
+    },
+    "error404_message":" _ _ _ ",
+    "error404_cmd":["#","#","#"],
+    "tool_activation":"private",
+    "server_ofline_message":" _ _ _ _ _ _ ",
+    "server_repairing_message":" _ _ _ _ _ _ _ "
+}
