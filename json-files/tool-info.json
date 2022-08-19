@@ -1,0 +1,30 @@
+{
+    "tool_name":"GOD",
+    "tool_creater":"Bilal Haider ID",
+    "tool_version":"0.0.1",
+    "owner_github":"https://github.con/BilalHaider-ID",
+    "team_name":"",
+    "owner_members":
+    {
+        "mamber_01":
+        {
+            "github":" ",
+            "facebook":" "
+        },
+        "member_02":
+        {
+            "github": " ",
+            "facebook": " "
+        },
+        "member_03":
+        {
+            "github": " ",
+            "facebook": " "
+        },
+        "member_04":
+        {
+            "github": " ",
+            "facebook": " "
+        }
+    }
+}
